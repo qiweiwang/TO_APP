@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/qiweiwang/TO_APP#readme",
   "dependencies": {
-    "timeoutjs": "file:timeoutjs"
+    "timeoutjs": "git+https://github.com/keegandonley/timeoutJS.git"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
